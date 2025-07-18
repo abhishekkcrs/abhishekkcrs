@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaurasia</h1>
-<h3 align="center">Aspiring Tech Founder | Full Stack Developer | AI + Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring Tech Enthusiast | Full Stack Developer | AI + Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkcrs&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,9 +9,9 @@
 
 🔭 I’m currently building **Barniq**, a next-gen social media platform blending personalization and proximity-based content delivery.
 
-🚀 Dreaming of building my own aerospace company one day, with a strong passion for **space**, **innovation**, and **technology that scales**.
+🚀 Dreaming of building my own rocket one day, with a strong passion for **space**, **innovation**, and **technology that scales**.
 
-🎓 B.Tech in AI & DS (GLBITM) | B.Sc. CS (University of Delhi)
+🎓 B.Tech in AI(GLBITM) | B.Sc. CS (University of Delhi)
 
 ---
 
