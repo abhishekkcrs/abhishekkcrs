@@ -60,7 +60,7 @@
 <p align="left">
   <a href="mailto:abhishekkcrs@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abhishekkcrs"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/abhishekkcrs"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ironside45"><img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://barniq.in"><img src="https://img.shields.io/badge/Barniq.in-black?style=for-the-badge&logo=internetarchive&logoColor=white" /></a>
 </p>
 
