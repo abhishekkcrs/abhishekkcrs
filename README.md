@@ -1,6 +1,6 @@
 <!-- Banner / Cover Image -->
 <p align="center">
-  <img src="https://media.barniq.in/webcontent/logo.png" alt="Banner" width="100%">
+  <img src="https://media.barniq.in/webcontent/logo.png" alt="Banner" width="10%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Chaurasia</h1>
