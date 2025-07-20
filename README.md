@@ -20,7 +20,7 @@
 - **Barniq** – Flutter + Spring Boot app for social media, featuring posts, stories, likes, real-time messaging, and location-aware feeds.\
   [Website](https://www.barniq.in)
 
-- **Gestura** – AI-based hand gesture recognition system.
+- **Gestura** – Non ML -based real time Gesture recognition system.
 
 - **Sizzle** – AI-based recipe and calorie detector using computer vision.
 
